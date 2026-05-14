@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+frontend/__init__.py
+frontend/app.py
+frontend/components.py
+frontend/runner.py
+prscribe_frontend.egg-info/PKG-INFO
+prscribe_frontend.egg-info/SOURCES.txt
+prscribe_frontend.egg-info/dependency_links.txt
+prscribe_frontend.egg-info/requires.txt
+prscribe_frontend.egg-info/top_level.txt

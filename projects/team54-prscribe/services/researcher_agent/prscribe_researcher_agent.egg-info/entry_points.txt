@@ -1,0 +1,2 @@
+[console_scripts]
+prscribe-researcher = researcher_agent.cli:main

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: prscribe-orchestration
+Version: 0.1.0
+Summary: LangGraph orchestration for PRScribe.
+Requires-Python: >=3.11
+Requires-Dist: prscribe-researcher-agent
+Requires-Dist: prscribe-context-agent
+Requires-Dist: prscribe-writer-agent
+Requires-Dist: langgraph>=1.0.0
+Requires-Dist: python-dotenv>=1.0.0

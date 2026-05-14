@@ -1,0 +1,2 @@
+[console_scripts]
+prscribe-writer = writer_agent.cli:main

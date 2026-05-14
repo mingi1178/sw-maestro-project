@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: prscribe-frontend
+Version: 0.1.0
+Summary: Streamlit demo UI for PRScribe.
+Requires-Python: >=3.11
+Requires-Dist: streamlit>=1.36.0
+Requires-Dist: prscribe-orchestration
+Requires-Dist: python-dotenv>=1.0.0
